@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BloodVFX.cpp.obj": [
+			"BloodVFXActor.cpp.obj",
+			"BloodVFX.cpp.obj",
+			"BloodVFXNiagaraComponent.cpp.obj",
+			"BloodVFXInterface.cpp.obj"
+		],
+		"Module.BloodVFX.gen.cpp.obj": [
+			"BloodVFX.init.gen.cpp.obj",
+			"BloodVFXActor.gen.cpp.obj",
+			"BloodVFXInterface.gen.cpp.obj",
+			"BloodVFXNiagaraComponent.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BloodVFX.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\RanWaterDemo\Intermediate\Build\Win64\RanWaterDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\RanWaterDemo\Plugins\ThirdParty\BloodVFX\Intermediate\Build\Win64\UE4Editor\Development\BloodVFX\Module.BloodVFX.cpp.obj"
+"F:\RanWaterDemo\Plugins\ThirdParty\BloodVFX\Intermediate\Build\Win64\UE4Editor\Development\BloodVFX\Module.BloodVFX.gen.cpp.obj"
+"F:\RanWaterDemo\Plugins\ThirdParty\BloodVFX\Intermediate\Build\Win64\UE4Editor\Development\BloodVFX\Default.rc2.res"
+/OUT:"F:\RanWaterDemo\Plugins\ThirdParty\BloodVFX\Intermediate\Build\Win64\UE4Editor\Development\BloodVFX\UE4Editor-BloodVFX.lib"
